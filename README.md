@@ -1,4 +1,4 @@
-Copyright (C) 2022 - joshportfolio.com
+Copyright (C) 2022 - joshportfolio.com\n
     This site can be used as a free software template: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, version 3.
